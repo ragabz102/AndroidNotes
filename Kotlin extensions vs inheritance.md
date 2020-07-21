@@ -106,3 +106,7 @@ or
 - used for clean code and scalability 
 - improving the readability of code itself
 - converting object to another
+
+## Summary
+
+Extension Methods are useful tools to extend types that already exist in the system – either because they don't have the functionality we need or simply to make some specific area of code easier to manage.
